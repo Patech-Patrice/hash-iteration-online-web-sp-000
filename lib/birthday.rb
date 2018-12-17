@@ -10,5 +10,5 @@ def happy_birthday(birthday_kids)
   end
 end
 
-
+#happy_birthday, prints out a birthday message to each kid in the birthday_kids hash
 
