@@ -16,3 +16,5 @@ end
  
 winner  
 end
+
+#select_winner, returns the name of the passenger who stays in suite a and whose name begins with the letter 'A'
